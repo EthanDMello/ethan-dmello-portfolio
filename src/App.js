@@ -1,7 +1,7 @@
 import "./App.css";
 
 import Background from "./components/background";
-import Window from "./components/window";
+import Window from "./components/Window";
 
 function App() {
   return (
